@@ -1,7 +1,7 @@
 {
     "name": "amel-baileys",
     "version": "1.2.8",
-    "description": "Whatsapp baileys coded by amel",
+    "description": "Whatsapp baileys code by amel",
     "keywords": [
         "whatsapp",
         "amel-baileys",
@@ -53,7 +53,7 @@
         "futoin-hkdf": "^1.5.1",
         "gradient-string": "^3.0.0",
         "libphonenumber-js": "^1.10.20",
-        "libsignal": "npm:@shennmine/libsignal-node",
+        "libsignal": "github:amelMD/libsignal",
         "lodash": "^4.17.21",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
